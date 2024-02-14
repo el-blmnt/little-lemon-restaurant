@@ -5,7 +5,7 @@ This is the Meta Backend Developer Professional Certificate Capstone Project usi
 The original Capstone Project only requires the following:
     1. User Registration
     2. Adding and Viewing of Menus
-    3. Table Reservation
+    3. Add Table Reservation
 
 This project aims to add the following features:
     1. Inventory 
